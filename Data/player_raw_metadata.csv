@@ -1,0 +1,422 @@
+names,position,batting_style,bowling_style
+Babar Azam,Batter,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Sam Billings†,Wicketkeeper Batter,Batting:Right hand Bat,
+Brad Haddin†,Wicketkeeper Batter,Batting:Right hand Bat,
+Khalid Latif,Top order Batter,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Misbah-ul-Haq,Middle order Batter,Batting:Right hand Bat,Bowling:Legbreak
+Sharjeel Khan,Opening Batter,Batting:Left hand Bat,Bowling:Legbreak
+Umar Amin,Top order Batter,Batting:Left hand Bat,Bowling:Right arm Medium
+Amad Butt,Bowling Allrounder,Batting:Right hand Bat,Bowling:Right arm Fast
+Kamran Ghulam,Allrounder,Batting:Right hand Bat,Bowling:Slow Left arm Orthodox
+Andre Russell,Allrounder,Batting:Right hand Bat,Bowling:Right arm Fast
+Shane Watson,Allrounder,Batting:Right hand Bat,Bowling:Right arm Fast medium
+Samuel Badree,Bowler,Batting:Right hand Bat,Bowling:Legbreak
+Mohammad Irfan,Bowler,Batting:Right hand Bat,Bowling:Left arm Fast
+Mohammad Sami,Bowler,Batting:Right hand Bat,Bowling:Right arm Fast
+Rumman Raees,Bowler,Batting:Right hand Bat,Bowling:Left arm Medium fast
+Imran Khalid,,Batting:Left hand Bat,Bowling:Slow Left arm Orthodox
+Iftikhar Ahmed,Middle order Batter,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Mushfiqur Rahim†,Wicketkeeper Batter,Batting:Right hand Bat,
+Nauman Anwar,Opening Batter,Batting:Right hand Bat,Bowling:Right arm Medium fast
+Saifullah Bangash†,Wicketkeeper Batter,Batting:Right hand Bat,
+Lendl Simmons,Top order Batter,Batting:Right hand Bat,Bowling:Right arm Medium fast
+James Vince,Batter,Batting:Right hand Bat,Bowling:Right arm Medium
+Shoaib Malik(c),Allrounder,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Ravi Bopara,Batting Allrounder,Batting:Right hand Bat,Bowling:Right arm Medium
+Imad Wasim,Allrounder,Batting:Left hand Bat,Bowling:Slow Left arm Orthodox
+Shakib Al Hasan,Allrounder,Batting:Left hand Bat,Bowling:Slow Left arm Orthodox
+Bilawal Bhatti,Bowler,Batting:Right hand Bat,Bowling:Right arm Medium fast
+Mir Hamza,Bowler,Batting:Left hand Bat,Bowling:Left arm Medium
+Mohammad Amir,Bowler,Batting:Left hand Bat,Bowling:Left arm Fast medium
+Sohail Khan,Bowler,Batting:Right hand Bat,Bowling:Right arm Fast medium
+Sohail Tanvir,Bowler,Batting:Left hand Bat,Bowling:Left arm Medium fast
+Usama Mir,Bowler,Batting:Right hand Bat,Bowling:Legbreak
+Misbah-ul-Haq(c),Middle order Batter,Batting:Right hand Bat,Bowling:Legbreak
+Asif Ali,Middle order Batter,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Ben Duckett,Top order Batter,Batting:Left hand Bat,Bowling:Right arm Offbreak
+Nicholas Pooran†,Wicketkeeper Batter,Batting:Left hand Bat,Bowling:Right arm Offbreak
+Hussain Talat,Allrounder,Batting:Left hand Bat,Bowling:Right arm Medium fast
+Shadab Khan,Allrounder,Batting:Right hand Bat,Bowling:Legbreak
+Dwayne Smith,Allrounder,Batting:Right hand Bat,Bowling:Right arm Medium
+Zohaib Khan,Allrounder,Batting:Right hand Bat,Bowling:Slow Left arm Orthodox
+Steven Finn,Bowler,Batting:Right hand Bat,Bowling:Right arm Fast medium
+Saeed Ajmal,Bowler,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Azhar Ali,Top order Batter,Batting:Right hand Bat,Bowling:Legbreak
+Cameron Delport,Top order Batter,Batting:Left hand Bat,Bowling:Right arm Medium
+Hammad Azam,Middle order Batter,Batting:Right hand Bat,Bowling:Right arm Medium
+Mohammad Rizwan†,Wicketkeeper Batter,Batting:Right hand Bat,Bowling:Right arm Medium
+Naved Yasin,Middle order Batter,Batting:Left hand Bat,Bowling:Slow Left arm Orthodox
+Sohaib Maqsood,Middle order Batter,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Umar Akmal,Middle order Batter,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Dwayne Bravo,Allrounder,Batting:Right hand Bat,Bowling:Right arm Medium
+Kevon Cooper,Allrounder,Batting:Right hand Bat,Bowling:Right arm Medium
+Chris Gayle,Allrounder,Batting:Left hand Bat,Bowling:Right arm Offbreak
+Mustafizur Rahman,Bowler,Batting:Left hand Bat,Bowling:Left arm Fast medium
+Yasir Shah,Bowler,Batting:Right hand Bat,Bowling:Legbreak Googly
+Zafar Gohar,Bowler,Batting:Left hand Bat,Bowling:Slow Left arm Orthodox
+Zia-ul-Haq,Bowler,Batting:Right hand Bat,Bowling:Left arm Fast medium
+Adnan Rasool,,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Kumar Sangakkara(c),Wicketkeeper Batter,Batting:Left hand Bat,Bowling:Right arm Offbreak
+Hasan Mohsin,Middle order Batter,Batting:Right hand Bat,Bowling:Right arm Medium
+Mahela Jayawardene,Batter,Batting:Right hand Bat,Bowling:Right arm Medium
+Khurram Manzoor,Opening Batter,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Shahzaib Hasan,Opening Batter,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Kashif Bhatti,Allrounder,Batting:Right hand Bat,Bowling:Slow Left arm Orthodox
+Ryan McLaren,Allrounder,Batting:Left hand Bat,Bowling:Right arm Medium fast
+Kieron Pollard,Batting Allrounder,Batting:Right hand Bat,Bowling:Right arm Medium
+Shoaib Malik,Allrounder,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Abrar Ahmed,Bowler,Batting:Right hand Bat,Bowling:Legbreak Googly
+Rahat Ali,Bowler,Batting:Right hand Bat,Bowling:Left arm Fast medium
+Usman Shinwari,Bowler,Batting:Right hand Bat,Bowling:Left arm Medium fast
+Jonny Bairstow†,Wicketkeeper Batter,Batting:Right hand Bat,Bowling:Right arm Medium
+Kamran Akmal†,Wicketkeeper Batter,Batting:Right hand Bat,
+Dawid Malan,Top order Batter,Batting:Left hand Bat,Bowling:Legbreak
+Shahid Yousaf,Batter,Batting:Right hand Bat,Bowling:Right arm Medium fast
+Tamim Iqbal,Opening Batter,Batting:Left hand Bat,
+Aamer Yamin,Allrounder,Batting:Right hand Bat,Bowling:Right arm Medium
+Jim Allenby,Allrounder,Batting:Right hand Bat,Bowling:Right arm Medium
+Mohammad Hafeez,Allrounder,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Daren Sammy,Allrounder,Batting:Right hand Bat,Bowling:Right arm Medium
+Shahid Afridi,Allrounder,Batting:Right hand Bat,Bowling:Legbreak Googly
+Abdur Rehman,Bowler,Batting:Left hand Bat,Bowling:Slow Left arm Orthodox
+Hasan Ali,Bowler,Batting:Right hand Bat,Bowling:Right arm Medium fast
+Imran Khan,Bowler,Batting:Right hand Bat,Bowling:Left arm Medium fast
+Junaid Khan,Bowler,Batting:Right hand Bat,Bowling:Left arm Fast
+Mohammad Asghar,Bowler,Batting:Right hand Bat,Bowling:Slow Left arm Orthodox
+Shaun Tait,Bowler,Batting:Right hand Bat,Bowling:Right arm Fast
+Wahab Riaz,Bowler,Batting:Right hand Bat,Bowling:Left arm Fast
+Chris Jordan,Bowler,Batting:Right hand Bat,Bowling:Right arm Fast medium
+Musaddiq Ahmed,,Batting:Right hand Bat,
+Brendon McCullum(c),Wicketkeeper Batter,Batting:Right hand Bat,"Bowling:Right arm Medium, Right arm Offbreak"
+Fakhar Zaman,Opening Batter,Batting:Left hand Bat,Bowling:Slow Left arm Orthodox
+Jason Roy,Opening Batter,Batting:Right hand Bat,
+Saif Badar,Middle order Batter,Batting:Right hand Bat,Bowling:Legbreak Googly
+Grant Elliott,Allrounder,Batting:Right hand Bat,Bowling:Right arm Medium
+James Franklin,Allrounder,Batting:Left hand Bat,Bowling:Left arm Medium
+Chris Green,Bowling Allrounder,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Sunil Narine,Bowling Allrounder,Batting:Left hand Bat,Bowling:Right arm Offbreak
+Ghulam Mudassar,Bowler,Batting:Right hand Bat,Bowling:Left arm Fast medium
+Usman Qadir,Bowler,Batting:Left hand Bat,Bowling:Legbreak
+Sarfaraz Ahmed† (c),Wicketkeeper Batter,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Ahmed Shehzad,Opening Batter,Batting:Right hand Bat,Bowling:Legbreak
+Asad Shafiq,Middle order Batter,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Bismillah Khan†,Wicketkeeper Batter,Batting:Right hand Bat,
+Kevin Pietersen,Top order Batter,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Luke Wright,Top order Batter,Batting:Right hand Bat,Bowling:Right arm Medium
+Akbar-ur-Rehman,Allrounder,Batting:Right hand Bat,Bowling:Legbreak Googly
+Bilal Asif,Allrounder,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Elton Chigumbura,Allrounder,Batting:Right hand Bat,Bowling:Right arm Fast medium
+Mohammad Nabi,Allrounder,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Mohammad Nawaz,Allrounder,Batting:Left hand Bat,Bowling:Slow Left arm Orthodox
+Saad Nasim,Allrounder,Batting:Right hand Bat,Bowling:Legbreak
+Jason Holder,Bowling Allrounder,Batting:Right hand Bat,Bowling:Right arm Medium fast
+Anwar Ali,Bowler,Batting:Right hand Bat,Bowling:Right arm Medium fast
+Umar Gul,Bowler,Batting:Right hand Bat,Bowling:Right arm Fast medium
+Zulfiqar Babar,Bowler,Batting:Right hand Bat,Bowling:Slow Left arm Orthodox
+Andre Fletcher,Top order Batter,Batting:Right hand Bat,"Bowling:Right arm Medium fast, Legbreak"
+Haris Sohail,Middle order Batter,Batting:Left hand Bat,Bowling:Slow Left arm Orthodox
+Eoin Morgan,Middle order Batter,Batting:Left hand Bat,Bowling:Right arm Medium
+Marlon Samuels,Top order Batter,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Daren Sammy(c),Allrounder,Batting:Right hand Bat,Bowling:Right arm Medium
+Tillakaratne Dilshan,Allrounder,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Khushdil Shah,Allrounder,Batting:Left hand Bat,Bowling:Slow Left arm Orthodox
+Samit Patel,Allrounder,Batting:Right hand Bat,Bowling:Slow Left arm Orthodox
+Alex Hales,Opening Batter,Batting:Right hand Bat,Bowling:Right arm Medium
+Mohammad Hasan,Middle order Batter,Batting:Right hand Bat,
+Rohail Nazir†,Wicketkeeper Batter,Batting:Right hand Bat,
+Luke Ronchi†,Wicketkeeper Batter,Batting:Right hand Bat,
+Sahibzada Farhan,Middle order Batter,Batting:Right hand Bat,
+Chadwick Walton,Top order Batter,Batting:Right hand Bat,
+Jean-Paul Duminy,Batting Allrounder,Batting:Left hand Bat,Bowling:Right arm Offbreak
+Faheem Ashraf,Bowling Allrounder,Batting:Left hand Bat,Bowling:Right arm Medium
+Sarfaraz Ahmed(c),Wicketkeeper Batter,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Rilee Rossouw,Top order Batter,Batting:Left hand Bat,Bowling:Right arm Offbreak
+Mahmudullah,Allrounder,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Thisara Perera,Bowling Allrounder,Batting:Left hand Bat,Bowling:Right arm Medium fast
+Hassan Khan,Bowler,Batting:Right hand Bat,Bowling:Slow Left arm Orthodox
+Nathan McCullum,Bowler,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Tymal Mills,Bowler,Batting:Right hand Bat,Bowling:Left arm Fast
+Noor Wali,,Batting:Right hand Bat,Bowling:Right arm Medium
+Joe Denly,Top order Batter,Batting:Right hand Bat,Bowling:Legbreak
+Colin Ingram,Top order Batter,Batting:Left hand Bat,Bowling:Legbreak
+Mohammad Taha,Allrounder,Batting:Left hand Bat,Bowling:Slow Left arm Orthodox
+David Wiese,Allrounder,Batting:Right hand Bat,Bowling:Right arm Medium fast
+Tabish Khan,Bowler,Batting:Right hand Bat,Bowling:Right arm Fast medium
+Ian Bell,Top order Batter,Batting:Right hand Bat,Bowling:Right arm Medium
+Rizwan Hussain,Batter,Batting:Left hand Bat,
+Phil Salt†,Wicketkeeper Batter,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Mohammad Sami(c),Bowler,Batting:Right hand Bat,Bowling:Right arm Fast
+Muhammad Musa,Bowler,Batting:Right hand Bat,Bowling:Right arm Fast medium
+Wayne Parnell,Bowler,Batting:Left hand Bat,Bowling:Left arm Medium fast
+Waqas Maqsood,Bowler,Batting:Left hand Bat,Bowling:Left arm Fast medium
+Zahir Khan,Bowler,Batting:Left hand Bat,Bowling:Left arm Wrist spin
+Nasir Nawaz,,Batting:Right hand Bat,Bowling:Right arm Medium fast
+Awais Zia,Opening Batter,Batting:Left hand Bat,Bowling:Right arm Offbreak
+Ben Dunk†,Wicketkeeper Batter,Batting:Left hand Bat,Bowling:Right arm Offbreak
+Colin Munro,Opening Batter,Batting:Left hand Bat,Bowling:Right arm Medium fast
+Imad Wasim(c),Allrounder,Batting:Left hand Bat,Bowling:Slow Left arm Orthodox
+Ali Imran,Batting Allrounder,Batting:Right hand Bat,Bowling:Right arm Medium
+Liam Livingstone,Batting Allrounder,Batting:Right hand Bat,"Bowling:Right arm Offbreak, Legbreak"
+Sikandar Raza,Batting Allrounder,Batting:Right hand Bat,"Bowling:Right arm Offbreak, Legbreak"
+Umer Khan,Bowler,Batting:Left hand Bat,Bowling:Slow Left arm Orthodox
+Jaahid Ali,,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Aaron Summers,,Batting:Right hand Bat,Bowling:Right arm Fast
+Rassie van der Dussen,Top order Batter,Batting:Right hand Bat,Bowling:Legbreak
+Shadab Khan(c),Allrounder,Batting:Right hand Bat,Bowling:Legbreak
+Ahmed Safi Abdullah,Bowling Allrounder,Batting:Left hand Bat,Bowling:Slow Left arm Orthodox
+Akif Javed,Bowler,Batting:Right hand Bat,Bowling:Left arm Medium fast
+Dale Steyn,Bowler,Batting:Right hand Bat,Bowling:Right arm Fast
+AB de Villiers†,Wicketkeeper Batter,Batting:Right hand Bat,Bowling:Right arm Medium
+Anton Devcich,Opening Batter,Batting:Left hand Bat,Bowling:Slow Left arm Orthodox
+Syed Saad Ali,Top order Batter,Batting:Left hand Bat,Bowling:Right arm Medium
+Brendan Taylor†,Wicketkeeper Batter,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Mohammad Hafeez(c),Allrounder,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Salman Agha,Allrounder,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Corey Anderson,Batting Allrounder,Batting:Left hand Bat,Bowling:Left arm Medium fast
+Carlos Brathwaite,Allrounder,Batting:Right hand Bat,Bowling:Right arm Fast medium
+Mohammad Imran,Allrounder,Batting:Right hand Bat,Bowling:Right arm Medium
+Sohail Akhtar,Allrounder,Batting:Right hand Bat,Bowling:Right arm Medium
+Aizaz Cheema,Bowler,Batting:Right hand Bat,Bowling:Right arm Medium fast
+Haris Rauf,Bowler,Batting:Right hand Bat,Bowling:Right arm Fast
+Sandeep Lamichhane,Bowler,Batting:Right hand Bat,Bowling:Legbreak Googly
+Shaheen Shah Afridi,Bowler,Batting:Left hand Bat,Bowling:Left arm Fast
+Hardus Viljoen,Bowler,Batting:Right hand Bat,Bowling:Right arm Fast
+Gauhar Ali,,Batting:Right hand Bat,
+Umair Masood,,Batting:Right hand Bat,
+Sherfane Rutherford,Middle order Batter,Batting:Left hand Bat,Bowling:Right arm Fast medium
+Dan Lawrence,Middle order Batter,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Umaid Asif,Bowling Allrounder,Batting:Right hand Bat,Bowling:Right arm Medium fast
+Ali Khan,Bowler,Batting:Right hand Bat,Bowling:Right arm Fast medium
+Arshad Iqbal,Bowler,Batting:Right hand Bat,Bowling:Right arm Medium fast
+Mitchell McClenaghan,Bowler,Batting:Left hand Bat,Bowling:Left arm Fast medium
+Liam Plunkett,Bowler,Batting:Right hand Bat,Bowling:Right arm Fast
+Johnson Charles†,Wicketkeeper Batter,Batting:Right hand Bat,
+Laurie Evans,Batter,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Mohammad Ilyas,Opening Batter,Batting:Left hand Bat,Bowling:Right arm Offbreak
+Tom Moores†,Wicketkeeper Batter,Batting:Left hand Bat,
+Shakeel Ansar†,Wicketkeeper Batter,Batting:Right hand Bat,
+Shan Masood,Opening Batter,Batting:Left hand Bat,Bowling:Right arm Medium fast
+Umar Siddiq,Opening Batter,Batting:Left hand Bat,Bowling:Right arm Offbreak
+Steven Smith,Top order Batter,Batting:Right hand Bat,Bowling:Legbreak Googly
+Dan Christian,Allrounder,Batting:Right hand Bat,Bowling:Right arm Fast medium
+Ali Shafique,Bowler,Batting:Right hand Bat,Bowling:Right arm Medium
+Mohammad Abbas,Bowler,Batting:Right hand Bat,Bowling:Right arm Medium fast
+Noman Ali,Bowler,Batting:Left hand Bat,Bowling:Slow Left arm Orthodox
+Qais Ahmad,Bowler,Batting:Right hand Bat,Bowling:Legbreak
+Mohammad Junaid,,Batting:Left hand Bat,Bowling:Slow Left arm Orthodox
+Chris Lynn,Batter,Batting:Right hand Bat,Bowling:Slow Left arm Orthodox
+Mohammad Faizan,Batter,Batting:Right hand Bat,Bowling:Right arm Medium fast
+Salman Butt,Batter,Batting:Left hand Bat,Bowling:Right arm Offbreak
+Dane Vilas†,Wicketkeeper Batter,Batting:Right hand Bat,
+Sohail Akhtar(c),Allrounder,Batting:Right hand Bat,Bowling:Right arm Medium
+Seekkuge Prasanna,Allrounder,Batting:Right hand Bat,Bowling:Legbreak
+Dilbar Hussain,Bowler,Batting:Right hand Bat,Bowling:Right arm Fast medium
+Raja Farzan,Bowler,Batting:Left hand Bat,Bowling:Legbreak Googly
+Wayne Madsen,Batter,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Liam Dawson,Allrounder,Batting:Right hand Bat,Bowling:Slow Left arm Orthodox
+Khalid Usman,Bowling Allrounder,Batting:Right hand Bat,Bowling:Slow Left arm Orthodox
+Ibtisam Sheikh,Bowler,Batting:Left hand Bat,Bowling:Legbreak Googly
+Sameen Gul,Bowler,Batting:Right hand Bat,Bowling:Right arm Medium
+Waqar Salamkheil,Bowler,Batting:Right hand Bat,Bowling:Left arm Wrist spin
+Jamal Anwar,,Batting:Right hand Bat,
+Nabi Gul,,Batting:Right hand Bat,
+Shan Masood(c),Opening Batter,Batting:Left hand Bat,Bowling:Right arm Medium fast
+Adam Lyth,Batter,Batting:Left hand Bat,Bowling:Right arm Offbreak
+Zeeshan Ashraf†,Wicketkeeper Batter,Batting:Left hand Bat,Bowling:Right arm Offbreak
+Moeen Ali,Batting Allrounder,Batting:Left hand Bat,Bowling:Right arm Offbreak
+Fabian Allen,Bowling Allrounder,Batting:Right hand Bat,Bowling:Slow Left arm Orthodox
+Imran Tahir,Bowler,Batting:Right hand Bat,Bowling:Legbreak Googly
+Ahsan Ali,Top order Batter,Batting:Right hand Bat,Bowling:Legbreak
+Azam Khan†,Wicketkeeper Batter,Batting:Right hand Bat,
+Saud Shakeel,Middle order Batter,Batting:Left hand Bat,Bowling:Slow Left arm Orthodox
+Danish Aziz,Allrounder,Batting:Left hand Bat,Bowling:Slow Left arm Orthodox
+Fawad Ahmed,Bowler,Batting:Right hand Bat,Bowling:Legbreak Googly
+Harry Gurney,Bowler,Batting:Right hand Bat,Bowling:Left arm Fast medium
+Mohammad Hasnain,Bowler,Batting:Right hand Bat,Bowling:Right arm Fast
+Naseem Shah,Bowler,Batting:Right hand Bat,Bowling:Right arm Fast
+Jalat Khan,,Batting:Left hand Bat,Bowling:Slow Left arm Orthodox
+Gulraiz Sadaf,Middle order Batter,Batting:Right hand Bat,
+Denesh Ramdin†,Wicketkeeper Batter,Batting:Right hand Bat,
+Raza Hasan,Bowler,Batting:Right hand Bat,Bowling:Slow Left arm Orthodox
+Salman Irshad,Bowler,Batting:Right hand Bat,Bowling:Right arm Fast medium
+Tom Banton†,Wicketkeeper Batter,Batting:Right hand Bat,
+Faf du Plessis,Middle order Batter,Batting:Right hand Bat,Bowling:Legbreak
+Haider Ali,Middle order Batter,Batting:Right hand Bat,
+Imam-ul-Haq,Top order Batter,Batting:Left hand Bat,
+Lewis Gregory,Allrounder,Batting:Right hand Bat,Bowling:Right arm Medium fast
+Mohammad Mohsin,Bowling Allrounder,Batting:Left hand Bat,Bowling:Legbreak Googly
+Dwaine Pretorius,Bowling Allrounder,Batting:Right hand Bat,Bowling:Right arm Medium fast
+Wahab Riaz(c),Bowler,Batting:Right hand Bat,Bowling:Left arm Fast
+Khurram Shahzad,Bowler,Batting:Right hand Bat,Bowling:Right arm Medium fast
+Saqib Mahmood,Bowler,Batting:Right hand Bat,Bowling:Right arm Fast medium
+Mohammad Amir Khan,Bowler,Batting:Right hand Bat,Bowling:Right arm Medium
+Aamir Ali,,Batting:Left hand Bat,Bowling:Slow Left arm Orthodox
+Adil Amin,,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Abdullah Shafique,Top order Batter,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Darren Bravo,Top order Batter,Batting:Left hand Bat,Bowling:Right arm Medium
+Irfan Khan,Middle order Batter,,
+Kumar Sangakkara†,Wicketkeeper Batter,Batting:Left hand Bat,Bowling:Right arm Offbreak
+Ross Whiteley,Middle order Batter,Batting:Left hand Bat,Bowling:Left arm Medium
+Shane Watson(vc),Allrounder,Batting:Right hand Bat,Bowling:Right arm Fast medium
+Abdul Nasir,Allrounder,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Ben Cutting,Allrounder,Batting:Right hand Bat,Bowling:Right arm Fast medium
+Keemo Paul,Allrounder,Batting:Right hand Bat,Bowling:Right arm Fast medium
+Aarish Ali Khan,Bowler,Batting:Right hand Bat,Bowling:Slow Left arm Orthodox
+Mohammad Arif,Opening Batter,Batting:Right hand Bat,
+Taimoor Sultan,Opening Batter,Batting:Right hand Bat,
+Riki Wessels,Middle order Batter,Batting:Right hand Bat,
+Sabbir Rahman,Batting Allrounder,Batting:Right hand Bat,Bowling:Legbreak
+Li Jian,,Batting:Right hand Bat,Bowling:Right arm Medium fast
+Usman Khawaja,Top order Batter,Batting:Left hand Bat,Bowling:Right arm Medium
+Brandon King,Top order Batter,Batting:Right hand Bat,
+Muhammad Akhlaq†,Wicketkeeper Batter,Batting:Right hand Bat,Bowling:Right arm Medium fast
+Janneman Malan,Top order Batter,Batting:Right hand Bat,Bowling:Legbreak
+Zeeshan Zameer,Bowling Allrounder,Batting:Right hand Bat,Bowling:Right arm Fast medium
+Paul Stirling,Batting Allrounder,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Mohammad Wasim,Bowler,Batting:Right hand Bat,Bowling:Right arm Fast medium
+Reece Topley,Bowler,Batting:Right hand Bat,Bowling:Left arm Fast medium
+Rashid Khan,Bowling Allrounder,Batting:Right hand Bat,Bowling:Legbreak Googly
+Jofra Archer,Bowler,Batting:Right hand Bat,Bowling:Right arm Fast
+Faraz Ahmed,Bowler,Batting:Right hand Bat,Bowling:Right arm Medium fast
+Babar Azam(vc),Batter,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Martin Guptill,Opening Batter,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Mohammad Haris†,Wicketkeeper Batter,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Najibullah Zadran,Middle order Batter,Batting:Left hand Bat,Bowling:Right arm Offbreak
+Zeeshan Malik,Opening Batter,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Joe Clarke,Top order Batter,Batting:Right hand Bat,
+Litton Das†,Wicketkeeper Batter,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Qasim Akram,Allrounder,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Abbas Afridi,Bowler,Batting:Right hand Bat,Bowling:Right arm Medium fast
+Noor Ahmad,Bowler,Batting:Right hand Bat,Bowling:Left arm Wrist spin
+Tim David,Middle order Batter,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Callum Ferguson,Middle order Batter,Batting:Right hand Bat,Bowling:Right arm Medium
+Muhammad Zaid,Batter,Batting:Right hand Bat,Bowling:Right arm Medium fast
+Joe Burns,Batter,Batting:Right hand Bat,"Bowling:Right arm Medium, Right arm Offbreak"
+James Faulkner,Bowling Allrounder,Batting:Right hand Bat,Bowling:Left arm Fast medium
+Tom Abell,Batting Allrounder,Batting:Right hand Bat,Bowling:Right arm Medium
+Shaheen Shah Afridi(vc),Bowler,Batting:Left hand Bat,Bowling:Left arm Fast
+Ahmed Daniyal,Bowler,Batting:Right hand Bat,Bowling:Right arm Medium fast
+Maaz Khan,Bowler,Batting:Right hand Bat,Bowling:Legbreak Googly
+Sultan Ahmed,Bowler,Batting:Left hand Bat,Bowling:Slow Left arm Orthodox
+Salman Mirza,Bowler,Batting:Right hand Bat,Bowling:Left arm Fast
+Mohammad Rizwan(c),Wicketkeeper Batter,Batting:Right hand Bat,Bowling:Right arm Medium
+Shimron Hetmyer,Middle order Batter,Batting:Left hand Bat,
+Muhammad Waseem,Opening Batter,Batting:Right hand Bat,Bowling:Right arm Medium
+Rahmanullah Gurbaz†,Wicketkeeper Batter,Batting:Right hand Bat,Bowling:Right arm Medium
+Asif Afridi,Bowling Allrounder,Batting:Left hand Bat,Bowling:Slow Left arm Orthodox
+George Linde,Allrounder,Batting:Left hand Bat,Bowling:Slow Left arm Orthodox
+Mohammad Umar,Bowler,Batting:Right hand Bat,Bowling:Right arm Medium
+Blessing Muzarabani,Bowler,Batting:Right hand Bat,Bowling:Right arm Fast medium
+Shahnawaz Dahani,Bowler,Batting:Right hand Bat,Bowling:Right arm Fast medium
+Sohaibullah,Bowler,Batting:Left hand Bat,Bowling:Left arm Medium
+Obed McCoy,Bowler,Batting:Left hand Bat,Bowling:Left arm Fast medium
+Muhammad Hurraira,Batter,Batting:Right hand Bat,
+Mubasir Khan,Allrounder,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Athar Mahmood,Bowler,Batting:Right hand Bat,Bowling:Right arm Fast medium
+Marchant de Lange,Bowler,Batting:Right hand Bat,Bowling:Right arm Fast
+Hazratullah Zazai,Opening Batter,Batting:Left hand Bat,Bowling:Slow Left arm Orthodox
+David Miller,Middle order Batter,Batting:Left hand Bat,Bowling:Right arm Offbreak
+Rovman Powell,Middle order Batter,Batting:Right hand Bat,Bowling:Right arm Medium fast
+Jonathan Wells,Middle order Batter,Batting:Right hand Bat,Bowling:Right arm Medium
+Tom Kohler-Cadmore†,Wicketkeeper Batter,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Shoaib Malik(vc),Allrounder,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Fidel Edwards,Bowler,Batting:Right hand Bat,Bowling:Right arm Fast
+Mujeeb Ur Rahman,Bowler,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Babar Azam(c),Batter,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Ian Cockbain,Middle order Batter,Batting:Right hand Bat,Bowling:Right arm Medium
+Tom Lammonby,Batting Allrounder,Batting:Left hand Bat,Bowling:Left arm Medium fast
+Jordan Thompson,Bowling Allrounder,Batting:Left hand Bat,Bowling:Right arm Medium fast
+Romario Shepherd,Bowling Allrounder,Batting:Right hand Bat,Bowling:Right arm Fast medium
+Faisal Akram,Bowler,Batting:Left hand Bat,Bowling:Left arm Wrist spin
+Talha Ahsan,,Batting:Right hand Bat,Bowling:Legbreak
+Fazalhaq Farooqi,Bowler,Batting:Right hand Bat,Bowling:Left arm Fast medium
+Rachel Gnanaraj,,Batting:Right hand Bat,Bowling:Right arm Medium
+Saim Ayub,Top order Batter,Batting:Left hand Bat,Bowling:Right arm Offbreak
+Usman Khan†,Wicketkeeper Batter,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Jake Weatherald,Top order Batter,Batting:Left hand Bat,Bowling:Legbreak
+Mohammad Nawaz(vc),Allrounder,Batting:Left hand Bat,Bowling:Slow Left arm Orthodox
+Jack Wildermuth,Allrounder,Batting:Right hand Bat,Bowling:Right arm Medium fast
+Zahid Mahmood,Bowler,Batting:Right hand Bat,Bowling:Legbreak
+Zahoor Khan,Bowler,Batting:Right hand Bat,Bowling:Right arm Medium fast
+Harry Brook,Batter,Batting:Right hand Bat,Bowling:Right arm Medium
+Dean Foxcroft,Allrounder,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Shaheen Shah Afridi(c),Bowler,Batting:Left hand Bat,Bowling:Left arm Fast
+Matthew Potts,Bowler,Batting:Right hand Bat,Bowling:Right arm Fast medium
+Syed Faridoun,Bowler,Batting:Right hand Bat,Bowling:Left arm Wrist spin
+Zaman Khan,Bowler,Batting:Right hand Bat,Bowling:Right arm Fast
+Tayyab Tahir,Middle order Batter,Batting:Right hand Bat,Bowling:Legbreak Googly
+Matthew Wade†,Wicketkeeper Batter,Batting:Left hand Bat,Bowling:Right arm Medium
+James Fuller,Allrounder,Batting:Right hand Bat,Bowling:Right arm Fast medium
+Tabraiz Shamsi,Bowler,Batting:Right hand Bat,Bowling:Left arm Wrist spin
+Andrew Tye,Bowler,Batting:Right hand Bat,Bowling:Right arm Medium fast
+Mohammad Rizwan† (c),Wicketkeeper Batter,Batting:Right hand Bat,Bowling:Right arm Medium
+Muhammad Amir Barki,Batter,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Dominic Drakes,Bowling Allrounder,Batting:Left hand Bat,Bowling:Left arm Medium fast
+David Willey,Bowling Allrounder,Batting:Left hand Bat,Bowling:Left arm Fast medium
+Odean Smith,Bowling Allrounder,Batting:Right hand Bat,Bowling:Right arm Fast medium
+Ihsanullah,Bowler,Batting:Right hand Bat,Bowling:Right arm Fast
+Jordan Cox†,Wicketkeeper Batter,Batting:Right hand Bat,
+Shai Hope†,Wicketkeeper Batter,Batting:Right hand Bat,
+Mirza Baig,Top order Batter,Batting:Right hand Bat,
+Ahsan Hafeez,Allrounder,Batting:Left hand Bat,Bowling:Slow Left arm Orthodox
+Shawaiz Irfan,,Batting:Right hand Bat,
+Pat Brown,Bowler,Batting:Right hand Bat,Bowling:Right arm Fast medium
+Matt Parkinson,Bowler,Batting:Right hand Bat,Bowling:Legbreak
+Sirajuddin,Bowler,Batting:Right hand Bat,Bowling:Right arm Medium
+Arafat Minhas,Bowler,Batting:Left hand Bat,Bowling:Slow Left arm Orthodox
+Sheldon Cottrell,Bowler,Batting:Right hand Bat,Bowling:Left arm Fast medium
+Akeal Hosein,Bowler,Batting:Left hand Bat,Bowling:Slow Left arm Orthodox
+Josh Little,Bowler,Batting:Right hand Bat,Bowling:Left arm Fast medium
+Adil Rashid,Bowler,Batting:Right hand Bat,Bowling:Legbreak
+Mohammad Sarwar,,Batting:Right hand Bat,Bowling:Right arm Fast medium
+Abdul Bangalzai,Batter,Batting:Right hand Bat,
+Will Smeed,Top order Batter,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Ashir Qureshi,Bowler,Batting:Right hand Bat,Bowling:Legbreak Googly
+Luke Wood,Bowler,Batting:Left hand Bat,Bowling:Left arm Fast medium
+Naveen-ul-Haq,Bowler,Batting:Right hand Bat,Bowling:Right arm Medium fast
+Haseebullah Khan†,Wicketkeeper Batter,Batting:Left hand Bat,
+Bhanuka Rajapaksa,Top order Batter,Batting:Left hand Bat,Bowling:Right arm Medium
+Aamer Jamal,Allrounder,Batting:Right hand Bat,Bowling:Right arm Medium fast
+Azmatullah Omarzai,Allrounder,Batting:Right hand Bat,Bowling:Right arm Medium fast
+James Neesham,Batting Allrounder,Batting:Left hand Bat,Bowling:Right arm Medium fast
+Dasun Shanaka,Allrounder,Batting:Right hand Bat,Bowling:Right arm Medium
+Sufiyan Muqeem,Bowler,Batting:Left hand Bat,Bowling:Left arm Wrist spin
+Tom Curran,Allrounder,Batting:Right hand Bat,Bowling:Right arm Fast medium
+Matthew Forde,Bowler,Batting:Right hand Bat,Bowling:Right arm Medium
+Hunain Shah,Bowler,Batting:Right hand Bat,Bowling:Right arm Medium
+Ubaid Shah,Bowler,Batting:Right hand Bat,Bowling:Right arm Fast medium
+Shahab Khan,,Bowling:Left arm Medium,
+Shamyl Hussain,,Batting:Left hand Bat,
+Omair Yousuf,Batter,Batting:Right hand Bat,
+Sarfaraz Ahmed†,Wicketkeeper Batter,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Aimal Khan,,Batting:Right hand Bat,Bowling:Right arm Medium
+Mohammad Zahid,,Batting:Right hand Bat,Bowling:Right arm Fast
+Leus du Plooy,Middle order Batter,Batting:Left hand Bat,Bowling:Slow Left arm Orthodox
+Saad Baig†,Wicketkeeper Batter,Batting:Left hand Bat,
+Tim Seifert†,Wicketkeeper Batter,Batting:Right hand Bat,
+Jamie Overton,Bowling Allrounder,Batting:Right hand Bat,Bowling:Right arm Fast
+Daniel Sams,Allrounder,Batting:Right hand Bat,Bowling:Left arm Fast medium
+Fawad Ali,Bowler,Batting:Right hand Bat,Bowling:Right arm Fast
+Muhammad Rohid,Bowler,Batting:Left hand Bat,Bowling:Left arm Medium fast
+Lorcan Tucker†,Wicketkeeper Batter,Batting:Right hand Bat,
+Jahandad Khan,Allrounder,Batting:Left hand Bat,Bowling:Left arm Medium fast
+Salman Fayyaz,Bowler,Batting:Left hand Bat,Bowling:Legbreak Googly
+Tayyab Abbas,Bowler,Batting:Left hand Bat,Bowling:Left arm Medium fast
+Ahsan Bhatti,,Bowling:Slow Left arm Orthodox,
+Reeza Hendricks,Opening Batter,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Yasir Khan,Top order Batter,Batting:Right hand Bat,
+Muhammad Shahzad,Batting Allrounder,Batting:Right hand Bat,Bowling:Right arm Medium fast
+Mohammad Ali,Bowler,Batting:Right hand Bat,Bowling:Right arm Medium fast
+Olly Stone,Bowler,Batting:Right hand Bat,Bowling:Right arm Fast
+Aftab Ibrahim,,Batting:Right hand Bat,Bowling:Right arm Medium fast
+Dan Mousley,Batting Allrounder,Batting:Left hand Bat,Bowling:Right arm Offbreak
+Paul Walter,Allrounder,Batting:Left hand Bat,Bowling:Left arm Medium
+Arif Yaqoob,Bowler,Batting:Right hand Bat,Bowling:Legbreak
+Mehran Mumtaz,Bowler,Batting:Left hand Bat,Bowling:Slow Left arm Orthodox
+Mohammad Zeeshan,Bowler,Batting:Right hand Bat,Bowling:Right arm Medium
+Lungi Ngidi,Bowler,Batting:Right hand Bat,Bowling:Right arm Fast medium
+Umair Afridi,,Batting:Left hand Bat,Bowling:Left arm Medium
+Khawaja Nafay,Batter,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Usman Tariq,Bowler,Batting:Right hand Bat,Bowling:Right arm Offbreak
+Adil Naz,,Batting:Right hand Bat,
+Sajjad Ali,,Batting:Right hand Bat,
